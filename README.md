@@ -14,7 +14,8 @@ A stylish, semi-transparent calculator built with **C# and Windows Forms**.
 
 ## 🖼 Screenshot
 
-> *Add your screenshot here*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bbcfcc9-dd30-4c21-b9ad-3bce6c8018ca" />
+
 
 ## 🛠 Built With
 
