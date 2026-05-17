@@ -23,8 +23,8 @@ I wrote all the code in **SharpDevelop**. The interface was designed using the *
 ## 🚀 How to run it
 
 ### Option 1: Download the Ready-to-Run App
-1. Go to the [Releases](https://github.com/sasha-adelser/ACC-A-Color-Calculator-/releases) page.
-2. Download the latest `ACC.zip` file.
+1. Go to the [Releases](https://github.com/sasha-adelser/ACC-A-Color-Calculator-/releases/tag/v.1) page.
+2. Download the latest `ReleaseACC-v.1.zip` file.
 3. Unzip it and double-click `ACC.exe` to run.
 
 ### Option 2: Build from Source
