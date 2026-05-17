@@ -1,44 +1,42 @@
-# 🧮 Glass Calculator
+# ACC - A Color Calculator
 
-A stylish, semi-transparent calculator built with **C# and Windows Forms**.
+A simple calculator I made in C# and Windows Forms. It has a cool dark transparent design.
 
-## ✨ Features
+## What it does
 
-- **Basic operations**: addition, subtraction, multiplication, division
-- **Percentage** calculation
-- **Sign toggle** (±)
-- **Decimal point** support
-- **Error handling** for division by zero
-- **Glass-style UI** with dark theme and transparency
-- **Keyboard support** (coming soon)
+- Add, subtract, multiply, divide numbers
+- Calculate percentages
+- Change positive numbers to negative and back
+- Use decimal points
+- Shows error if you try to divide by zero
 
-## 🖼 Screenshot
+## Design
 
-<img width="334" height="496" alt="acc" src="https://github.com/user-attachments/assets/68b1f77c-0b49-4427-a7a5-c42581d4b8dc" />
+I made the background dark and a little bit transparent so it looks like glass. I used many different colors for the buttons to make them look bright and cool. Each button has its own color. They are not just plain, I really colored them nicely.
 
+## How I made it
 
+I used SharpDevelop to write the code. The design was made in the Windows Forms designer. I picked different colors for the buttons to make the calculator look fun and not boring.
 
-## 🛠 Built With
+## How to run it
 
-- **C#** (.NET Framework 4.x)
-- **Windows Forms (WinForms)**
-- **SharpDevelop IDE**
+1. Download the project in Releases
+2. Open Calculator.sln in SharpDevelop or Visual Studio
+3. Press F8 to build
+4. Press F5 to run
 
-## 🚀 Getting Started
+Or just take ACC.exe from the bin folder and run it.
 
-### Prerequisites
+## Files
 
-- Windows 7/8/10/11
-- .NET Framework 4.0 or higher
+- MainForm.cs - the main code with all the math
+- MainForm.Designer.cs - where the buttons and layout are
+- Program.cs - starts the program
 
-### Installation
+## Why I made this
 
-1. Download the latest release from [Releases](../../releases)
-2. Extract the ZIP file
-3. Run `Calculator.exe`
+I wanted to learn how to make programs with buttons and text boxes. A calculator seemed like a good first project because everyone knows how it should work. I also wanted to make it colorful so it looks nice.
 
-### Build from Source
+## Notes
 
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/calculator.git
+I am still learning so there might be some bugs. Sorry about that.
