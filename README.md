@@ -1,42 +1,50 @@
-# ACC - A Color Calculator
+# 🎨 ACC - A Color Calculator
 
-A simple calculator I made in C# and Windows Forms. It has a cool dark transparent design.
+A simple and colorful calculator app built with **C#** and **Windows Forms**. It features a stylish glass-like transparent design with vibrant, multicolored buttons.
 
-## What it does
+![ACC Calculator Screenshot](screenshot.png)
 
-- Add, subtract, multiply, divide numbers
-- Calculate percentages
-- Change positive numbers to negative and back
-- Use decimal points
-- Shows error if you try to divide by zero
+## ✨ What it does
 
-## Design
+- ➕ Add, subtract, multiply, and divide numbers
+- 📊 Calculate percentages
+- ➖ Toggle numbers between positive and negative
+- ⚪ Use decimal points
+- 🛡️ Shows an error if you try to divide by zero
 
-I made the background dark and a little bit transparent so it looks like glass. I used many different colors for the buttons to make them look bright and cool. Each button has its own color. They are not just plain, I really colored them nicely.
+## 🎨 Design
 
-## How I made it
+The calculator has a sleek, modern look. The background is dark and semi-transparent to create a "glass" effect. I used a variety of different colors for the buttons to make them bright, fun, and easy to tell apart.
 
-I used SharpDevelop to write the code. The design was made in the Windows Forms designer. I picked different colors for the buttons to make the calculator look fun and not boring.
+## 🛠 How I made it
 
-## How to run it
+I wrote all the code in **SharpDevelop**. The interface was designed using the **Windows Forms designer**. I spent time picking the perfect colors for each button to make the calculator look exciting and not boring.
 
-1. Download the project in Releases
-2. Open Calculator.sln in SharpDevelop or Visual Studio
-3. Press F8 to build
-4. Press F5 to run
+## 🚀 How to run it
 
-Or just take ACC.exe from the bin folder and run it.
+### Option 1: Download the Ready-to-Run App
+1. Go to the [Releases](https://github.com/sasha-adelser/ACC-A-Color-Calculator-/releases) page.
+2. Download the latest `ACC.zip` file.
+3. Unzip it and double-click `ACC.exe` to run.
 
-## Files
+### Option 2: Build from Source
+1. Clone the repository.
+2. Open `Calculator.sln` in **SharpDevelop** or **Visual Studio**.
+3. Press `F8` to build the solution.
+4. Press `F5` to run.
 
-- MainForm.cs - the main code with all the math
-- MainForm.Designer.cs - where the buttons and layout are
-- Program.cs - starts the program
+## 📁 Project Files
 
-## Why I made this
+- `MainForm.cs` - The main code with all the math logic.
+- `MainForm.Designer.cs` - The file that defines the button layout.
+- `Program.cs` - The starting point of the application.
 
-I wanted to learn how to make programs with buttons and text boxes. A calculator seemed like a good first project because everyone knows how it should work. I also wanted to make it colorful so it looks nice.
+## 🤔 Why I made this
 
-## Notes
+I wanted to learn how to create Windows applications with clickable buttons and text boxes. A calculator seemed like the perfect first project because everyone knows how it works. I also wanted to practice making an attractive and colorful user interface.
 
-I am still learning so there might be some bugs. Sorry about that.
+## 👤 Author
+
+This is one of my first programming projects. I'm an 11-year-old developer learning C#. I hope you like it!
+
+**P.S.** I am still learning, so there might be a few bugs. Sorry about that!
