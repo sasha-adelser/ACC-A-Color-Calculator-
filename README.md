@@ -45,6 +45,6 @@ I wanted to learn how to create Windows applications with clickable buttons and 
 
 ## 👤 Author
 
-This is one of my first programming projects. I'm an 11-year-old developer learning C#. I hope you like it!
+This is one of my first programming projects. I'm an 8-year-old developer learning C#. I hope you like it!
 
 **P.S.** I am still learning, so there might be a few bugs. Sorry about that!
